@@ -12,6 +12,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
+    private String course;
+    private String class;
 
     /**
      * Get the value of name
