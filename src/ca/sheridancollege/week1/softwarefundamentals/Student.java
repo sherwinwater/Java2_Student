@@ -13,6 +13,8 @@ public class Student {
     
     private String name;
     private String course;
+    
+    private String testBranch;
 
     /**
      * Get the value of name
