@@ -14,6 +14,7 @@ public class Student {
     private String name;
     private String course;
 private String parttime;
+private String s;
     /**
      * Get the value of name
      *
